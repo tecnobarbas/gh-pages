@@ -3,33 +3,33 @@
     <title>TecnoBarbas</title>
     <link href="https://tecnobarbas.github.io/home/feed.xml" rel="self" />
     <link href="https://tecnobarbas.github.io/home" />
-    <updated>2018-08-08T00:09:17-03:00</updated>
+    <updated>2018-08-08T00:22:50-03:00</updated>
     <author>
         <name>Nastex</name>
     </author>
     <id>https://tecnobarbas.github.io/home</id>
 
     <entry>
-        <title>Este es el caballo</title>
+        <title>El renacer en forma de Blog</title>
         <author>
             <name>Nastex</name>
         </author>
-        <link href="https://tecnobarbas.github.io/home/este-es-el-caballo.html"/>
-        <id>https://tecnobarbas.github.io/home/este-es-el-caballo.html</id>
-            <category term="troya"/>
-            <category term="Pruebaa"/>
+        <link href="https://tecnobarbas.github.io/home/renacer.html"/>
+        <id>https://tecnobarbas.github.io/home/renacer.html</id>
+            <category term="TecnoBarbas"/>
 
-        <updated>2018-08-07T22:01:34-03:00</updated>
+        <updated>2018-08-08T00:22:15-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tecnobarbas.github.io/home/media/posts/2/" alt="" />
-                    Este es el caballo de troya
+                    Todo habia comenzado como podcast, por plataformas inusuales para ello, como lo es Youtube. Luego de hablar de varios temas empezando por uno y terminandolo en uno muy diferente; decidimos seguir haciendolo pero en forma de blog. Si blog
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://tecnobarbas.github.io/home/media/posts/2/" alt="" />
-                Este es el caballo de <strong>troya</strong>
+                <p>Todo habia comenzado como podcast, por plataformas inusuales para ello, como lo es Youtube.</p>
+<p>Luego de hablar de varios temas empezando por uno y terminandolo en uno muy diferente; decidimos seguir haciendolo pero en forma de blog. Si blog</p>
             ]]>
         </content>
     </entry>

@@ -10,21 +10,20 @@
     },
     "items": [
         {
-            "id": "https://tecnobarbas.github.io/home/este-es-el-caballo.html",
-            "url": "https://tecnobarbas.github.io/home/este-es-el-caballo.html",
-            "title": "Este es el caballo",
-            "summary": "Este es el caballo de troya",
-            "content_html": "Este es el caballo de <strong>troya</strong>",
+            "id": "https://tecnobarbas.github.io/home/renacer.html",
+            "url": "https://tecnobarbas.github.io/home/renacer.html",
+            "title": "El renacer en forma de Blog",
+            "summary": "Todo habia comenzado como podcast, por plataformas inusuales para ello, como lo es Youtube. Luego de hablar de varios temas empezando por uno y terminandolo en uno muy diferente; decidimos seguir haciendolo pero en forma de blog. Si blog",
+            "content_html": "<p>Todo habia comenzado como podcast, por plataformas inusuales para ello, como lo es Youtube.</p>\n<p>Luego de hablar de varios temas empezando por uno y terminandolo en uno muy diferente; decidimos seguir haciendolo pero en forma de blog. Si blog</p>",
             "image": "https://tecnobarbas.github.io/home/media/posts/2/",
             "author": {
                 "name": "Nastex"
             },
             "tags": [
-                   "troya",
-                   "Pruebaa"
+                   "TecnoBarbas"
             ],
             "date_published": "2018-08-07T22:01:34-03:00",
-            "date_modified": "2018-08-07T22:01:34-03:00"
+            "date_modified": "2018-08-08T00:22:15-03:00"
         }
     ]
 }
