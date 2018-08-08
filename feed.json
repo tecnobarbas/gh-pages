@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "TecnoBarbas",
     "description": "",
-    "home_page_url": "http://tecnobarbas",
-    "feed_url": "http://tecnobarbas/feed.json",
+    "home_page_url": "https://tecnobarbas.github.io/home",
+    "feed_url": "https://tecnobarbas.github.io/home/feed.json",
     "user_comment": "",
     "author": {
         "name": "Nastex"
     },
     "items": [
         {
-            "id": "http://tecnobarbas/este-es-el-caballo.html",
-            "url": "http://tecnobarbas/este-es-el-caballo.html",
+            "id": "https://tecnobarbas.github.io/home/este-es-el-caballo.html",
+            "url": "https://tecnobarbas.github.io/home/este-es-el-caballo.html",
             "title": "Este es el caballo",
             "summary": "Este es el caballo de troya",
             "content_html": "Este es el caballo de <strong>troya</strong>",
-            "image": "http://tecnobarbas/media/posts/2/",
+            "image": "https://tecnobarbas.github.io/home/media/posts/2/",
             "author": {
                 "name": "Nastex"
             },
