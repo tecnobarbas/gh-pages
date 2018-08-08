@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>TecnoBarbas</title>
+    <link href="http://tecnobarbas/feed.xml" rel="self" />
+    <link href="http://tecnobarbas" />
+    <updated>2018-08-08T00:02:30-03:00</updated>
+    <author>
+        <name>Nastex</name>
+    </author>
+    <id>http://tecnobarbas</id>
+
+    <entry>
+        <title>Este es el caballo</title>
+        <author>
+            <name>Nastex</name>
+        </author>
+        <link href="http://tecnobarbas/este-es-el-caballo.html"/>
+        <id>http://tecnobarbas/este-es-el-caballo.html</id>
+            <category term="troya"/>
+            <category term="Pruebaa"/>
+
+        <updated>2018-08-07T22:01:34-03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://tecnobarbas/media/posts/2/" alt="" />
+                    Este es el caballo de troya
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://tecnobarbas/media/posts/2/" alt="" />
+                Este es el caballo de <strong>troya</strong>
+            ]]>
+        </content>
+    </entry>
+</feed>
